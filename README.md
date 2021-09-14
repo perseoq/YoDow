@@ -7,4 +7,6 @@
 
 ![](imgs/1_d.png)  
 ![](imgs/2_d.png)
+
+#### Resultado:
 ![](imgs/3_a.png)
