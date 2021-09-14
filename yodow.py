@@ -35,6 +35,8 @@ def yodow():
     v.title("Youtube Downloader (& others)")
     v.geometry("655x515")
     v.resizable(0,0)
+    f = PhotoImage(file="/opt/y/d.png")
+    v.iconphoto(True, f)
 
     fleft = Frame(v)
     fleft.grid(row=0, column=0, padx=5, pady=20)
