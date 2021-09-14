@@ -1,4 +1,4 @@
-# YoDow (Interfaz gráfica para Youtube-DL) para Debian/Ubuntu
+# YoDow (Interfaz gráfica para Youtube-DL) --> Debian/Ubuntu
 
 ## Requisitos:
 
