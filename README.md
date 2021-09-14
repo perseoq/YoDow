@@ -12,6 +12,12 @@ pip install youtube-dl
 sudo chmod 755 -R y
 sudo apt install ffmpeg -y
 ```            
+### Descargar el archivo "tar.gz" extraerlo y hacer lo siguiente:
+```bash
+sudo mv yodow /opt/y/
+sudo mv d.png /opt/y/
+mv yodow.desktop ~/.local/share/applications
+```
 
 ### Interfáz gráfica para Youtube-DL (Descarga vídeos en la mejor calidad y MP3 a 320Kbps)
 
