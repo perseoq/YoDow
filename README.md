@@ -12,7 +12,7 @@ pip install youtube-dl
 sudo chmod 755 -R y
 sudo apt install ffmpeg -y
 ```            
-### Descargar el archivo "tar.gz" extraerlo y hacer lo siguiente:
+### Descargar el archivo [YoDow](https://github.com/perseoq/YoDow/releases/download/release/YoDow-v1.2.tar.xz), extraer los archivos y hacer lo siguiente:
 ```bash
 sudo mv yodow /opt/y/
 sudo mv d.png /opt/y/
